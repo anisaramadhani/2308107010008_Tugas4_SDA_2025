@@ -1,6 +1,5 @@
 # 2308107010008_Tugas4_SDA_2025
-Nama   : Anisa Ramadhani
-NPM    : 2308107010008
+Nama   : Anisa Ramadhani                                                                                                                                              NPM    : 2308107010008
 
 # Deskripsi Tugas
 Tugas ini bertujuan untuk menguji performa berbagai algoritma sorting pada dataset yang berisi angka dan string dalam jumlah besar. Program ditulis dalam bahasa C dan memanfaatkan beberapa algoritma sorting klasik untuk membandingkan kecepatan eksekusi dan penggunaan memori.
